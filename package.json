@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^7.5.1"
+    "install": "^0.13.0",
+    "mongoose": "^7.5.1",
+    "npm": "^10.1.0"
   }
 }
